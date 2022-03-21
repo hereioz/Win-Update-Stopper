@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win Update Stopper", "Win Update Stopper\Win Update Stopper.csproj", "{BDFF3571-9904-4F72-8BD3-BD77A23BD9CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDFF3571-9904-4F72-8BD3-BD77A23BD9CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFF3571-9904-4F72-8BD3-BD77A23BD9CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFF3571-9904-4F72-8BD3-BD77A23BD9CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFF3571-9904-4F72-8BD3-BD77A23BD9CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDB7A165-00E8-41EA-9677-4CCB6475AF10}
+	EndGlobalSection
+EndGlobal
